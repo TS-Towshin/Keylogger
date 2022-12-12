@@ -4,4 +4,4 @@ I added the extension '.pyw' which will help the program to run on the backgroun
 <br><br/>
 Modules used: Datetime, keyboard
 <br><br/>
-Antivirus programms might interfere with the keylogger
+Note: Antivirus programs might interfere with the keylogger
