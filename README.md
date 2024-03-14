@@ -4,4 +4,4 @@ I added the extension '.pyw' which will help the program to run on the backgroun
 <br><br/>
 Modules used: Datetime, keyboard
 <br><br/>
-Note: Antivirus programs might interfere with the keylogger<br>If you want to stop the keylogger than go to the task bar, select 'python.exe' and right click. Now select 'end task' or just restart the device.
+Note: Antivirus programs might interfere with the keylogger<br>If you want to stop the keylogger then go to the task bar, select 'python.exe' and right click. Now select 'end task' or just restart the device.
